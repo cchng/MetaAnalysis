@@ -1,0 +1,9 @@
+Package: MetaAnalysis
+Type: Package
+Title: Meta-analysis
+Version: 1.0
+Date: 2013-08-27
+Author: Carolyn Ch'ng
+Maintainer: Carolyn Ch'ng <cchng@chibi.ubc>
+Description: This packages provides methods for meta-analysis of expression profiling data, including Fisher's combined probability test and meta-rank analysis.
+License: What license is it under?
